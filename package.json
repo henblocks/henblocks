@@ -1,0 +1,23 @@
+{
+  "name": "henblocks",
+  "version": "1.0.0",
+  "description": "<!--\r **henblocks/henblocks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henblocks/henblocks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/henblocks/henblocks/issues"
+  },
+  "homepage": "https://github.com/henblocks/henblocks#readme",
+  "dependencies": {
+    "jscoq": "^0.15.0"
+  }
+}
